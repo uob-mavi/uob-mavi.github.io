@@ -6,7 +6,7 @@ permalink: /people/
 {% assign people_sorted = site.people | sort: "joined" %}
 {% assign people_array = "pi|postdoc|gradstudent|others" | split: "|" %}
 
-<h2>Machine Learning and Computer Vision Research Group</h2>
+<h3>Machine Learning and Computer Vision Research Group</h3>
 
 <!--
 {% assign people_sorted = site.people | sort: "joined" %}
