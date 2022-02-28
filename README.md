@@ -24,7 +24,7 @@ date. Each post can be written in markdown format. You just have to state header
 ---
 title: Summer School in Computational Sensory-Motor Neuroscience (CoSMo)
 description: all links to CoSMo summer school in computational neuroscience materials
-categories: scientists
+categories: news
 ---
 ```
 
