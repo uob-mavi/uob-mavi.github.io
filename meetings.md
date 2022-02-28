@@ -5,7 +5,7 @@ permalink: /meetings/
 
 ### <span style="color:#2348a3">MaVi meetings</span>
 
-We run a weekly meeting
+Stay tuned... seminars will be advertised here.
 
 <br>
 
