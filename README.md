@@ -1,7 +1,7 @@
 # Bristol Machine Learning and Computer Vision group page
 
 
-This is repository for [Bristol CNU](http://bristolcnu.github.io/). We use Jekyll to run our Github page that builds upon the template from the [Kording lab webpage](http://kordinglab.com/).
+This is repository for [Bristol MaVi](https://uob-mavi.github.io). We use Jekyll to run our Github page that builds upon the templates from the [Bristol CNU webpage](https://bristolcnu.github.io/) and the [Kording lab webpage](http://kordinglab.com/).
 
 
 ## Run the page locally
