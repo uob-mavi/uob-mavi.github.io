@@ -3,7 +3,7 @@ name: Daniel Whettam
 position: gradstudent
 avatar: daniel_whettam.jpeg
 twitter: DWhettam
-affiliation: Dima Damen group
+affiliation: Dima Damen's group
 website: https://dwhettam.github.io/
 ---
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
