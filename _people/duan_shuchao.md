@@ -1,8 +1,8 @@
 ---
 name: Shuchao Duan
 position: gradstudent
-avatar: 
+avatar:  shuchao_duan.jpeg
 twitter: 
 affiliation: Majid Mirmehdi's Group
-website: shuchaoduan.github.io
+website: https://shuchaoduan.github.io/
 ---
