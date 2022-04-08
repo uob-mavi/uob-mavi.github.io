@@ -1,5 +1,5 @@
 ---
-name: Zahraa S. Abdallah
+name: Dr Zahraa S. Abdallah
 position: pi
 avatar: Zahraa.png
 twitter: ZsAbdallah
