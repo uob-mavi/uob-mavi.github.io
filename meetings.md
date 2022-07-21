@@ -10,7 +10,7 @@ permalink: /meetings/
     {% if post.categories contains 'meeting' %}
     <div class="list-item">
     <p class="list-post-title">
-        <small>{{post.date | date: "%d/%m/%y" }} {{ post.time }}</small>: <b><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></b>
+        <small>{{post.date | date: "%d/%m/%y" }} {{ post.time }} Room: {{ post.location }}</small>: <b><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></b>
         {{post.content}}
         </p>
     </div>
