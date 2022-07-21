@@ -21,6 +21,8 @@ markdown:           kramdown
 # Highlighter
 highlighter:        rouge
 
+future:             true
+
 # Navigation
 nav:
   - name:           "PEOPLE"
