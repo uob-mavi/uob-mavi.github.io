@@ -1,6 +1,6 @@
 ---
 name: Dena Bazazian
-position: postdoc
+position: alumni_ra
 avatar: dena_bazazian.jpeg
 twitter: 
 affiliation: Dima Damen's Group
