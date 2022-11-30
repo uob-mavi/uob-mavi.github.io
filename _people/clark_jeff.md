@@ -1,4 +1,4 @@
- ---
+---
 name: Jeff Clark
 position: postdoc
 avatar: jeff_clark.jpeg
