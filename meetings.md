@@ -3,7 +3,7 @@ title: Meetings
 permalink: /meetings/
 ---
 
-### <span style="color:#2348a3">MaVi Seminar Series</span>
+### <span style="color:#0095a9">MaVi Seminar Series</span>
 <br>
 <div class="content list">
   {% for post in site.posts %}
