@@ -1,8 +1,8 @@
 ---
 name: Alex Hepburn
-position: gradstudent
+position: postdoc
 avatar: alex_hepburn.jpg
 twitter:
-affiliation: Raul Santos Rodriguez's Group
+affiliation: 
 website: https://github.com/alexhepburn
 ---
