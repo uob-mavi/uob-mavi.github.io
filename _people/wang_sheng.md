@@ -1,6 +1,6 @@
 ---
 name: Sheng Wang
-position: gradstudent
+position: alumni_phd
 avatar: sheng_wang.jpg
 twitter: 
 affiliation: Nello Cristianini's Group

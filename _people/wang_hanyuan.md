@@ -1,6 +1,6 @@
 ---
 name: Hanyuan Wang
-position: gradstudent
+position: alumni_phd
 avatar: Hanyuan_Wang.jpg
 twitter: 
 affiliation: Majid Mirmehdi's Group

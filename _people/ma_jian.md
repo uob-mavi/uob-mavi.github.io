@@ -1,6 +1,6 @@
 ---
 name: Jian Ma
-position: gradstudent
+position: alumni_phd
 avatar: JianMa.jpg
 twitter: JianMa17
 affiliation:  Dima Damen's Group

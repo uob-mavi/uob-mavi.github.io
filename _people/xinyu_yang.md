@@ -1,6 +1,6 @@
 ---
 name: Xinyu Yang
-position: gradstudent
+position: alumni_phd
 avatar: xinyu_yang.jpg
 twitter:
 affiliation: Majid Mirmehdi's Group
