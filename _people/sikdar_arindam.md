@@ -1,6 +1,6 @@
 ---
 name: Arindam Sikdar
-position: postdoc
+position: alumni_ra
 avatar: sikdar_arindam.jpg
 twitter: 
 affiliation: Majid Mirmehdi's Group
