@@ -1,5 +1,5 @@
 ---
-name: Dr Raul Santos Rodriguez
+name: Prof Raul Santos Rodriguez
 position: pi
 avatar: raul_santos.jpg
 twitter: 
