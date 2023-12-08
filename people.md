@@ -6,7 +6,7 @@ permalink: /people/
 {% assign people_sorted = site.people | sort: "joined" %}
 {% assign people_array = "pi|postdoc|gradstudent|others" | split: "|" %}
 
-<h3><b>News: </b>Applications will open soon for the 2024 Summer Research Visit @MaVi</h3>
+<h3><b>News: </b>Applications are open for <a href="http://uob-mavi.github.io/Summer@MaVi.html">2024 Summer of Research @MaVi</a></h3>
 
 <h2>Machine Learning and Computer Vision Research Group</h2>
 
