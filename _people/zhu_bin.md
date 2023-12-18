@@ -1,6 +1,6 @@
 ---
 name: Bin Zhu
-position: postdoc
+position: alumni_ra
 avatar: bin_zhu.jpeg
 twitter:
 affiliation: Dima Damen's Group
