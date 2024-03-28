@@ -1,6 +1,6 @@
 ---
 name: Zeynel A. Samak
-position: gradstudent
+position: alumni_phd
 avatar: Zeynel_Samak.jpg
 twitter: 
 affiliation: Majid Mirmehdi's Group 

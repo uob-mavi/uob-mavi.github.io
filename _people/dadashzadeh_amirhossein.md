@@ -1,6 +1,6 @@
 ---
 name: Amirhossein Dadashzadeh
-position: gradstudent
+position: postdoc
 avatar: Amirhossein_Dadashzadeh.jpg
 twitter: 
 affiliation: Majid Mirmehdi's Group 
