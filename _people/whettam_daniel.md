@@ -1,6 +1,6 @@
 ---
 name: Daniel Whettam
-position: gradstudent
+position: alumni_phd
 avatar: daniel_whettam.jpeg
 twitter: DWhettam
 affiliation: Dima Damen's group
