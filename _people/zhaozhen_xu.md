@@ -1,6 +1,6 @@
 ---
 name: Zhaozhen Xu
-position: gradstudent
+position: alumni_phd
 avatar: Zhaozhen_Xu.JPG
 twitter: 
 affiliation: Nello Cristianini's Group
