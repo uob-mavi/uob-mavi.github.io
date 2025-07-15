@@ -1,5 +1,5 @@
 ---
-name: Dr Tilo Burghardt
+name: Prof Tilo Burghardt
 position: pi
 avatar: Tilo_Burghardt.jpg
 twitter: 
