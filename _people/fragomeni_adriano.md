@@ -1,6 +1,6 @@
 ---
 name: Adriano Fragomeni
-position: gradstudent 
+position: alumni_phd
 avatar: Adriano_Fragomeni.jpg
 twitter: adrifragomeni
 affiliation: Dima Damen's Group
