@@ -1,6 +1,6 @@
 ---
 name: Maha M. Alwuthaynani
-position: gradstudent 
+position: alumni_phd 
 avatar: 
 twitter: 
 affiliation: Zahraa Abdallah's Group
