@@ -1,8 +1,8 @@
 ---
 name: Kevin Flanagan
-position: gradstudent
+position: alumni_phd
 avatar: Kevin_Flanagan.jpg
 twitter:
-affiliation: Dima Damen's Group
+affiliation: Michael Wray's Group
 website:
 ---

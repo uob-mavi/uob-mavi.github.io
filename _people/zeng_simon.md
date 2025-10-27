@@ -1,6 +1,6 @@
 ---
 name: Simon Zeng
-position: gradstudent
+position: alumni_phd
 avatar: simon_zeng.jpg
 twitter:
 affiliation: Tilo Burghardt's group

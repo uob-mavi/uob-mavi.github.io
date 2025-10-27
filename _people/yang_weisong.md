@@ -1,6 +1,6 @@
 ---
 name: Weisong Yang
-position: gradstudent
+position: alumni_phd
 avatar: weisong_yang.jpg
 twitter: 
 affiliation: Raul Santos Rodriguez's Group
