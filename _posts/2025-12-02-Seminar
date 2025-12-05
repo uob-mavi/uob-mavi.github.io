@@ -1,0 +1,9 @@
+---
+date: 02/12/2025
+title: Building Worlds to Evaluate Wheels - Aniruddha Kembhavi, Wayve
+categories: meeting
+time: 2pm
+location: 1.1S Peel Lecture Theatre, Geographical Sciences (South Building), University Road, Bristol, BS8 1SS
+description:
+---
+Abstract: Wayve has been pioneering a scalable, end-to-end approach to autonomous driving—one that learns to drive from a large corpus of driving data. In this talk, I will describe how our end-to-end AI systems learn to perceive, plan, and control directly from experience, and how this approach is transforming the development of self-driving technology. A central challenge in advancing real-world autonomy is evaluation at scale. While real-world driving remains the ultimate test of safety and performance, it is costly, logistically constrained, and increasingly data-inefficient. As autonomous systems improve and visible errors become rarer, the miles required to obtain statistically meaningful results grow dramatically—yet most of those miles are uneventful, offering little insight into rare, safety-critical behavior. To overcome this, we are building virtual worlds that can meaningfully evaluate wheels—environments that combine simulation, data-driven modeling, and machine learning to probe autonomy in rich, scalable, and safety-critical ways. Finally, I will explore the emerging role of language in autonomous driving—from improving interpretability and reasoning to enabling natural interfaces and long-horizon planning. Together, these advances point toward a future where self-driving systems can not only act intelligently, but also explain, generalize, and learn continuously from the world around them.
