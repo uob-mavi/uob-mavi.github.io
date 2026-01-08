@@ -1,6 +1,6 @@
 ---
 name: Jacob Chalk
-position: gradstudent
+position: postdoc
 avatar: Jacob_Chalk_Avatar.jpg
 twitter: 
 affiliation: Dima Damen's Group
