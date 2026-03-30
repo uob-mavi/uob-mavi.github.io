@@ -1,6 +1,6 @@
 ---
 name: Elena Fillola Mayoral
-position: gradstudent
+position: alumni_phd
 avatar: elena_fillola.jpg
 twitter: 
 affiliation: Raul Santos Rodriguez's Group
