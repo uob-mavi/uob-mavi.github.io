@@ -1,6 +1,6 @@
 ---
 name: Ahmad Dar Khalil
-position: gradstudent
+position: postdoc
 avatar: ahmad.jpg
 twitter: ahmad_darkhalil
 affiliation: Dima Damen's Group

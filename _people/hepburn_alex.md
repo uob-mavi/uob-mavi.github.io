@@ -1,6 +1,6 @@
 ---
 name: Alex Hepburn
-position: postdoc
+position: alumni_ra
 avatar: alex_hepburn.jpg
 twitter:
 affiliation: Raul Rodriguez's Group
