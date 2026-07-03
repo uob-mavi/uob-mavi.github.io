@@ -1,8 +1,8 @@
 ---
-name: Prof Tilo Burghardt
+name: Dr Otto Brookes
 position: pi
-avatar: Tilo_Burghardt.jpg
+avatar: otto_brookes.jpg
 twitter: 
 affiliation: Computer Vision
-website: https://tilo.earth
+website: https://obrookes.github.io/otto.github.io/
 ---
