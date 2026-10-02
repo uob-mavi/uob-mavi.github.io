@@ -1,6 +1,6 @@
 ---
 name: Zhifan Zhu
-position: alumni_phd
+position: postdoc
 avatar: Zhifan_Zhu.jpg
 twitter: 
 affiliation: Dima Damen's Group
